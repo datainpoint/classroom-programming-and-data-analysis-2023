@@ -1,6 +1,7 @@
 numpy
 pandas
 xlrd
+openpyxl
 matplotlib
 scipy
 requests
